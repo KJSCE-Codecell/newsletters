@@ -1,0 +1,2 @@
+# newsletters
+Monthly NewsLetter Log
